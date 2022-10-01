@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pexeso_rodinka/static/css/main.d43caff2.css",
+    "main.js": "/pexeso_rodinka/static/js/main.28f9dffa.js",
+    "index.html": "/pexeso_rodinka/index.html",
+    "main.d43caff2.css.map": "/pexeso_rodinka/static/css/main.d43caff2.css.map",
+    "main.28f9dffa.js.map": "/pexeso_rodinka/static/js/main.28f9dffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43caff2.css",
+    "static/js/main.28f9dffa.js"
+  ]
+}
