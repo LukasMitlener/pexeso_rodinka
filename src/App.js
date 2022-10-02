@@ -3,12 +3,12 @@ import './App.css'
 import SingleCard from "./components/SingleCard"
 
 const cardImages = [
-  { "src": "/img/Babicka.jpg", matched: false },
-  { "src": "/img/Deda.jpg", matched: false },
-  { "src": "/img/Jonasek.jpg", matched: false },
-  { "src": "/img/PajaLuky.jpg", matched: false },
-  { "src": "/img/Zuzka1.jpg", matched: false },
-  { "src": "/img/Zuzka2.jpg", matched: false },
+  { "src": "../assets/babicka.jpg", matched: false },
+  { "src": "../assets/deda.jpg", matched: false },
+  { "src": "../assets/jonasek.jpg", matched: false },
+  { "src": "../assets/pajaluky.jpg", matched: false },
+  { "src": "../assets/zuzka1.jpg", matched: false },
+  { "src": "../assets/zuzka2.jpg", matched: false },
 ]
 
 function App() {
@@ -31,6 +31,7 @@ function App() {
   }
   //////////// handle choice
   const handleChoice = (card) => {
+    console.log(card)
     choiceOne ? setChoiceTwo(card) : setChoiceOne(card)
   }
 
