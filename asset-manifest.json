@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/pexeso_rodinka/static/css/main.d43caff2.css",
-    "main.js": "/pexeso_rodinka/static/js/main.74f21607.js",
+    "main.css": "/pexeso_rodinka/static/css/main.da2b649f.chunk.css",
+    "main.js": "/pexeso_rodinka/static/js/main.15d66ced.chunk.js",
+    "main.js.map": "/pexeso_rodinka/static/js/main.15d66ced.chunk.js.map",
+    "runtime-main.js": "/pexeso_rodinka/static/js/runtime-main.d03b2eda.js",
+    "runtime-main.js.map": "/pexeso_rodinka/static/js/runtime-main.d03b2eda.js.map",
+    "static/js/2.776d86a0.chunk.js": "/pexeso_rodinka/static/js/2.776d86a0.chunk.js",
+    "static/js/2.776d86a0.chunk.js.map": "/pexeso_rodinka/static/js/2.776d86a0.chunk.js.map",
     "index.html": "/pexeso_rodinka/index.html",
-    "main.d43caff2.css.map": "/pexeso_rodinka/static/css/main.d43caff2.css.map",
-    "main.74f21607.js.map": "/pexeso_rodinka/static/js/main.74f21607.js.map"
+    "static/css/main.da2b649f.chunk.css.map": "/pexeso_rodinka/static/css/main.da2b649f.chunk.css.map",
+    "static/js/2.776d86a0.chunk.js.LICENSE.txt": "/pexeso_rodinka/static/js/2.776d86a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.d43caff2.css",
-    "static/js/main.74f21607.js"
+    "static/js/runtime-main.d03b2eda.js",
+    "static/js/2.776d86a0.chunk.js",
+    "static/css/main.da2b649f.chunk.css",
+    "static/js/main.15d66ced.chunk.js"
   ]
 }
