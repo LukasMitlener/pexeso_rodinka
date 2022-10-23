@@ -3,12 +3,12 @@ import './App.css'
 import SingleCard from "./components/SingleCard"
 
 const cardImages = [
-  { "src": "./pexeso_rodinka/public/img/babicka", matched: false },
-  { "src": "./pexeso_rodinka/public/img/deda.jpg", matched: false },
-  { "src": "./pexeso_rodinka/public/img/jonasek.jpg", matched: false },
-  { "src": "./pexeso_rodinka/public/img/pajaluky.jpg", matched: false },
-  { "src": "./pexeso_rodinka/public/img/zuzka1.jpg", matched: false },
-  { "src": "./pexeso_rodinka/public/img/zuzka2.jpg", matched: false },
+  { "src": "./pexeso_rodinka/public/babicka", matched: false },
+  { "src": "./pexeso_rodinka/public/deda.jpg", matched: false },
+  { "src": "./pexeso_rodinka/public/jonasek.jpg", matched: false },
+  { "src": "./pexeso_rodinka/public/pajaluky.jpg", matched: false },
+  { "src": "./pexeso_rodinka/public/zuzka1.jpg", matched: false },
+  { "src": "./pexeso_rodinka/public/zuzka2.jpg", matched: false },
 ]
 
 function App() {
